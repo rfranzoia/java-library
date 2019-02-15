@@ -1,0 +1,48 @@
+﻿Sorry, there was a problem downloading some files from OneDrive. Please try again.
+
+aopalliance-aopalliance-jar-1.0.marker - https://onedrive.live.com/?cid=66d41fb492f97c91&id=66D41FB492F97C91%2139523&action=Download
+
+com.digitalpersona.onetouch-dpfpenrollment-jar-1.0.marker - https://onedrive.live.com/?cid=66d41fb492f97c91&id=66D41FB492F97C91%2139522&action=Download
+
+com.digitalpersona.onetouch-dpfpverification-jar-1.0.marker - https://onedrive.live.com/?cid=66d41fb492f97c91&id=66D41FB492F97C91%2139521&action=Download
+
+com.digitalpersona.onetouch-dpotapi-jar-1.0.marker - https://onedrive.live.com/?cid=66d41fb492f97c91&id=66D41FB492F97C91%2139520&action=Download
+
+com.digitalpersona.onetouch-dpotjni-jar-1.0.marker - https://onedrive.live.com/?cid=66d41fb492f97c91&id=66D41FB492F97C91%2139519&action=Download
+
+com.fasterxml.jackson.core-jackson-annotations-jar-2.7.0.marker - https://onedrive.live.com/?cid=66d41fb492f97c91&id=66D41FB492F97C91%2139518&action=Download
+
+com.fasterxml.jackson.core-jackson-core-jar-2.7.5.marker - https://onedrive.live.com/?cid=66d41fb492f97c91&id=66D41FB492F97C91%2139517&action=Download
+
+com.fasterxml.jackson.core-jackson-databind-jar-2.7.5.marker - https://onedrive.live.com/?cid=66d41fb492f97c91&id=66D41FB492F97C91%2139516&action=Download
+
+com.github.sarxos-webcam-capture-jar-0.3.10.marker - https://onedrive.live.com/?cid=66d41fb492f97c91&id=66D41FB492F97C91%2139515&action=Download
+
+com.nativelibs4java-bridj-jar-0.6.2.marker - https://onedrive.live.com/?cid=66d41fb492f97c91&id=66D41FB492F97C91%2139514&action=Download
+
+commons-io-commons-io-jar-1.3.2.marker - https://onedrive.live.com/?cid=66d41fb492f97c91&id=66D41FB492F97C91%2139513&action=Download
+
+commons-logging-commons-logging-jar-1.2.marker - https://onedrive.live.com/?cid=66d41fb492f97c91&id=66D41FB492F97C91%2139512&action=Download
+
+log4j-log4j-jar-1.2.17.marker - https://onedrive.live.com/?cid=66d41fb492f97c91&id=66D41FB492F97C91%2139511&action=Download
+
+org.slf4j-slf4j-api-jar-1.7.2.marker - https://onedrive.live.com/?cid=66d41fb492f97c91&id=66D41FB492F97C91%2139510&action=Download
+
+org.springframework-spring-aop-jar-4.1.6.RELEASE.marker - https://onedrive.live.com/?cid=66d41fb492f97c91&id=66D41FB492F97C91%2139509&action=Download
+
+org.springframework-spring-beans-jar-4.1.6.RELEASE.marker - https://onedrive.live.com/?cid=66d41fb492f97c91&id=66D41FB492F97C91%2139508&action=Download
+
+org.springframework-spring-context-jar-4.1.6.RELEASE.marker - https://onedrive.live.com/?cid=66d41fb492f97c91&id=66D41FB492F97C91%2139506&action=Download
+
+org.springframework-spring-core-jar-4.1.6.RELEASE.marker - https://onedrive.live.com/?cid=66d41fb492f97c91&id=66D41FB492F97C91%2139505&action=Download
+
+org.springframework-spring-expression-jar-4.1.6.RELEASE.marker - https://onedrive.live.com/?cid=66d41fb492f97c91&id=66D41FB492F97C91%2139504&action=Download
+
+org.springframework-spring-web-jar-4.1.6.RELEASE.marker - https://onedrive.live.com/?cid=66d41fb492f97c91&id=66D41FB492F97C91%2139503&action=Download
+
+org.springframework-spring-webmvc-jar-4.1.6.RELEASE.marker - https://onedrive.live.com/?cid=66d41fb492f97c91&id=66D41FB492F97C91%2139502&action=Download
+
+inputFiles.lst - https://onedrive.live.com/?cid=66d41fb492f97c91&id=66D41FB492F97C91%2140148&action=Download
+
+
+

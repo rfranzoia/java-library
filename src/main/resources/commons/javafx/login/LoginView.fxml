@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.text.*?>
+<?import javafx.scene.image.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="150.0" prefWidth="400.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="br.gov.am.prodam.commons.javafx.login.LoginController">
+   <center>
+      <GridPane alignment="CENTER" hgap="5.0" style="-fx-border-color: black;" BorderPane.alignment="CENTER">
+        <columnConstraints>
+          <ColumnConstraints halignment="RIGHT" hgrow="SOMETIMES" maxWidth="395.0" minWidth="10.0" prefWidth="194.0" />
+          <ColumnConstraints hgrow="SOMETIMES" maxWidth="529.0" minWidth="5.0" prefWidth="284.0" />
+        </columnConstraints>
+        <rowConstraints>
+          <RowConstraints maxHeight="79.0" minHeight="10.0" prefHeight="73.0" vgrow="SOMETIMES" />
+          <RowConstraints maxHeight="154.0" minHeight="10.0" prefHeight="77.0" vgrow="SOMETIMES" />
+        </rowConstraints>
+         <children>
+            <Label alignment="TOP_RIGHT" prefHeight="16.0" prefWidth="104.0" text="Usuário :">
+               <font>
+                  <Font name="Arial Bold" size="14.0" />
+               </font>
+            </Label>
+            <Label alignment="TOP_RIGHT" prefHeight="16.0" prefWidth="101.0" text="Senha :" GridPane.rowIndex="1">
+               <font>
+                  <Font name="Arial Bold" size="14.0" />
+               </font>
+            </Label>
+            <TextField fx:id="txtLogin" maxWidth="150.0" minHeight="30.0" GridPane.columnIndex="1">
+               <font>
+                  <Font name="Arial" size="14.0" />
+               </font>
+            </TextField>
+            <PasswordField fx:id="txtPassword" maxWidth="150.0" minHeight="30.0" GridPane.columnIndex="1" GridPane.rowIndex="1">
+               <font>
+                  <Font name="Arial" size="14.0" />
+               </font>
+            </PasswordField>
+         </children>
+         <padding>
+            <Insets right="5.0" />
+         </padding>
+         <BorderPane.margin>
+            <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+         </BorderPane.margin>
+      </GridPane>
+   </center>
+   <bottom>
+      <FlowPane alignment="CENTER" hgap="10.0" prefHeight="50.0" prefWidth="200.0" BorderPane.alignment="CENTER">
+         <children>
+            <Button fx:id="btnLogin" minHeight="35.0" minWidth="120.0" mnemonicParsing="false" text="Login">
+               <font>
+                  <Font name="Arial" size="14.0" />
+               </font>
+            </Button>
+            <Button fx:id="btnCancelar" minHeight="35.0" minWidth="120.0" mnemonicParsing="false" text="Cancel">
+               <font>
+                  <Font name="Arial" size="14.0" />
+               </font>
+            </Button>
+         </children>
+      </FlowPane>
+   </bottom>
+</BorderPane>
